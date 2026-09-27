@@ -1,0 +1,6 @@
+{
+  "name": "GS COMPUTER – Laptop, Desktop, Accessories & Computer Repair",
+  "description": "GS COMPUTER – New & Used Laptops, Desktop PCs, Computer Accessories, Repair Services, Laptop Exchange and Online Delivery in Paschim Sharira, Kaushambi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
